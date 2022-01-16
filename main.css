@@ -1,0 +1,23 @@
+header {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 1500px;
+    margin: auto;
+    font-size: 20px;
+    font-family: monospace;
+}
+body {
+   background-image: url("https://www.nicepng.com/png/detail/2-20854_transparent-snow-png-pattern.png");
+   background-color: #cccccc;
+  }
+
+div.body-class{
+    width: 80vw;
+    justify-content: center;
+    margin: auto;
+}
+
+p {
+    font-family: monospace;
+  }
